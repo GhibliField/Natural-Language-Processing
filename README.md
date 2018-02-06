@@ -1,4 +1,4 @@
-# 自然语言处理NLP
+# 自然语言处理NLP学习指南
 
 ## 主要内容
 - [前言](#preparation) 
@@ -12,11 +12,11 @@
 - [自然语言处理专项领域学习](#special_learning)
 - [领域会议期刊](#conference)
 
-##前言##
+## 前言
    
 我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
 
-##课程列表##
+## 课程列表
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -37,7 +37,7 @@
 Python程序语言设计| 暂无 | 暂无 | 暂无
 
 
-##数学基础初级##
+## 数学基础初级
  
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -49,7 +49,7 @@ Python程序语言设计| 暂无 | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 
 
-##程序语言能力##
+## 程序语言能力
 
 考虑到自然语言处理的的核心是里面的数学原理和算法思想，程序语言目前主要是帮助大家较好的完成课后作业以及实现自己的一些idea，此处我们仅仅给出推荐的参考学习链接，大家掌握一些常用的模块即可，即完成参考学习链接部分的内容即可，推荐书籍比较经典，但不做要求。
 
@@ -57,13 +57,13 @@ Python程序语言设计| 暂无 | 暂无 | 暂无
 :-- | :--: | :--:
 Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial/) | 暂无 
 
-##机器学习简介##
+## 机器学习简介
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [机器学习入门](https://www.coursera.org/learn/machine-learning) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/machine-learning)
 
-##自然语言处理学习初级##
+## 自然语言处理学习初级
 
    下面这些课程可以较好的帮助大家认识自然语言处理，了解基本的自然语言处理知识，是很好的入门课程。
    
@@ -73,7 +73,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [自然语言处理初级2](http://www.cs.columbia.edu/~cs4705/)| Columbia | 暂无 |  [链接](http://www.cs.columbia.edu/~cs4705/)
 
 
-##数学和机器学习知识补充##
+## 数学和机器学习知识补充
 
   考虑当前很多的自然语言处理技术等涉及较多的机器学习方法，所以我们要求至少得完成一门中等水准的机器学习课程，此处推荐NTU的机器学习课程，**NTU的“机器学习基石”和“机器学习技法”需同时完成。**，如果对其他机器学习感兴趣的话，可以取[Machine Learning](https://github.com/JustFollowUs/Machine-Learning)专栏上去寻找。而基本的凸优化能够帮助我们更好的了解机器学习知识，也是很多机器学习算法推导的一个基本工具。
   
@@ -83,7 +83,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
 [机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 
-##自然语言处理学习中级##
+## 自然语言处理学习中级
 
    下面是自然语言处理的一些较难的课程，但对于后续的科研或者学习有着极大的帮助，希望对大家有帮助。
  
@@ -93,14 +93,14 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 [深度学习用于自然语言处理](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)| Stanford |暂无 |[链接](http://cs224d.stanford.edu/syllabus.html)
 
 
-##自然语言处理专项领域学习##
+## 自然语言处理专项领域学习
 
    如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的自然语言处理基础了，已经是一名合格的自然语言处理的成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
 
 - [NLP学习平台](https://github.com/keonkim/awesome-nlp)
 - 如果有一些比较大的分支，例如机器翻译等会在后续阶段加入(希望大家提供建议以及较好的资料)
 
-##领域会议期刊##
+## 领域会议期刊
 
 - [ACL](https://www.aclweb.org/website/)
 - [EACL](http://www.eacl.org/page.php?id=index)
